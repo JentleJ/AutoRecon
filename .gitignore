@@ -1,0 +1,15 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+
+# Output folders (Scan results)
+# กันไม่ให้ผลสแกนหลุดขึ้นเน็ต
+*/scan_result*
+*.nmap
+*.xml
+*.gnmap
+*.txt
+*.png
+
+# System
+.DS_Store

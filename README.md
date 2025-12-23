@@ -1,4 +1,4 @@
-# 🕵️ AutoRecon-X
+# 🕵️ AutoRecon
 
 > An automated reconnaissance tool for modern penetration testers. Built with Python.
 

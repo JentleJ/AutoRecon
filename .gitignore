@@ -9,7 +9,6 @@ __pycache__/
 *.xml
 *.gnmap
 *.txt
-*.png
 
 # System
 .DS_Store
